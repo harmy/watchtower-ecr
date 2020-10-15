@@ -1,8 +1,8 @@
 # WatchTower ECR
 A docker image based on [containrrr/watchtower](https://github.com/containrrr/watchtower) for use with AWS ECR.
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/rabaco/watchtower-ecr.svg?style=flat-square)](https://hub.docker.com/r/harmy/watchtower-ecr/)
-[![Docker Stars](https://img.shields.io/docker/stars/rabaco/watchtower-ecr.svg?style=flat-square)](https://hub.docker.com/r/harmy/watchtower-ecr/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/harmy/watchtower.svg?style=flat-square)](https://hub.docker.com/r/harmy/watchtower-ecr/)
+[![Docker Stars](https://img.shields.io/docker/stars/harmy/watchtower.svg?style=flat-square)](https://hub.docker.com/r/harmy/watchtower-ecr/)
 
 ## Usage
 Run the container with the following command:
